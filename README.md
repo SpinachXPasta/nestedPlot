@@ -3,7 +3,7 @@
 Install nestedPlot
 
 ```r
-devtools::install_github("siddharthapachhai/nestedPlot")
+devtools::install_github("SpinachXPasta/nestedPlot")
 ```
 
 
