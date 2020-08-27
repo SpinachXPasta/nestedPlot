@@ -1,5 +1,11 @@
 # nestedPlot
 
+Install nestedPlot
+
+```r
+devtools::install_github("siddharthapachhai/nestedPlot")
+```
+
 
 ```r
 library(nestedPlot)
